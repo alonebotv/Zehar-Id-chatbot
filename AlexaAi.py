@@ -59,11 +59,11 @@ async def chatbot(client, message):
 ┣★ ᴄʀᴇᴀᴛᴇʀ [ᴢᴇʜᴀʀ](https://t.me/zehar3_bot)
 ┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/zehar_dpz)
 ┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/touch_your_heart31)
-┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/alonebotv/zehar-id-chatbot)
+┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/alonebotv/zehar-id-chatbot/tree/main)
 ┣★ ɴᴇᴛᴡᴏʀᴋ [ɪɴᴄʀɪᴄɪʙʟᴇ](https://t.me/+kIwD3aUhkoM2Mzdl)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @INCRICIBLE""",
+IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @touch_your_heart31""",
     ) 
 
 
