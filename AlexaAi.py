@@ -49,19 +49,18 @@ async def chatbot(client, message):
     umm = await message.reply_sticker("CAACAgUAAx0Cb3S_agAC5f5kvPFH8NXNLjRBWnAmI77d2VTAxgACywwAAl4T6FWb4uy8XHOfih4E")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/1500aa6ece4b86aea9021.jpg",
+        photo=f"https://te.legra.ph/file/6a817381d251ba2ebe228.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ ʟᴇɢᴇɴᴅ ɢᴏᴅғᴀᴛʜᴇʀ 🔥
+ᴏғ 🥵 zєнαя 🔥
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [ɢᴏᴅғᴀᴛʜᴇʀ](https://t.me/your_godfather_xd)
-┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/ABOUT_GODFATHER/281)
-┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/Incricible_music_support)
-┣★ ɪɴᴄʀɪᴄɪʙʟᴇ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/INCRICIBLE_FED)
-┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/mrtosumemon/CHATBOT)
-┣★ ɴᴇᴛᴡᴏʀᴋ [ɪɴᴄʀɪᴄɪʙʟᴇ](https://t.me/INCRICIBLE)
+┣★ ᴄʀᴇᴀᴛᴇʀ [ᴢᴇʜᴀʀ](https://t.me/zehar3_bot)
+┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/zehar_dpz)
+┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/touch_your_heart31)
+┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/alonebotv/zehar-id-chatbot)
+┣★ ɴᴇᴛᴡᴏʀᴋ [ɪɴᴄʀɪᴄɪʙʟᴇ](https://t.me/+kIwD3aUhkoM2Mzdl)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
 IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @INCRICIBLE""",
