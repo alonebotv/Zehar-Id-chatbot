@@ -1,8 +1,8 @@
-<h1 align="center"><b>❤️ INCRICIBLE AI MACHINE BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ ᴢᴇʜᴀʀ ᴀɪ ᴍᴀᴄʜɪɴᴇ ʙᴏᴛ ❤️</b></h1>
 
 <h4 align="center">A Telegram Userbot For AI Machine System To Increase Your Chat Ranking <br> ... Written With Python, Pyrogram And Mongodb Backend Database...</h4>
 
-<p align="center"><a href="https://t.me/INCRICIBLE"><img src="https://te.legra.ph/file/2a95c7d67b02357198455.jpg" width="400"></a></p>
+<p align="center"><a href="[[https://t.me/touch_your_heart31]]"><img src="https://te.legra.ph/file/6a817381d251ba2ebe228.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/mrtosumemon/ChatBot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
@@ -51,9 +51,9 @@
 <br>
 
 # ❤️ Support
-<a href="https://t.me/Incricible_music_support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Incricible"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/ABOUT_GODFATHER/281"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Incricible_network"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/touch_your_heart31"><img src="[https://te.legra.ph/file/6a817381d251ba2ebe228.jpg]"></a>
+<a href="https://t.me/touch_your_heart31"><img src="https://te.legra.ph/file/719356976c0a6f14f6ada.jpg"></a>
+<a href="https://t.me/ABOUT_GODFATHER/281"><img src="https://te.legra.ph/file/719356976c0a6f14f6ada.jpg"></a>
+<a href="https://t.me/ABOUT_GODFATHER/281"><img src="https://te.legra.ph/file/c5a80bfefd3a53872491d.jpg"></a>
 
 </details>
